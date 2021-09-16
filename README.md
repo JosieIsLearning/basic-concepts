@@ -131,7 +131,7 @@ ___
 ### 网上图片
 
 ![自己起的名字]()
-
+没有指定图片
 
 
 # 画图篇
@@ -144,8 +144,7 @@ A-->B
 B-->C
 C-->A
 ```
-
-![image-20210712151131655](就是玩.assets/image-20210712151131655.png)
+![image-20210712151131655](https://user-images.githubusercontent.com/73213476/133541429-c87e7d19-92d4-465b-aab1-9568b889f50f.png)
 
 ```mermaid
 graph TB
@@ -172,7 +171,7 @@ IsRemaining--没有-->sad["伤心"]-->goBack
 [参与者1][消息线][参与者2]:消息体
 ```
 
-![image-20210719162013061](就是玩.assets/image-20210719162013061.png)
+![image-20210719162013061](https://user-images.githubusercontent.com/73213476/133541483-7e0acabc-b89f-41a9-b093-ea1bd89d015e.png)
 
 ```sequence
 Title:买炸鸡
