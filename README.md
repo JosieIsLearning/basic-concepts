@@ -1,2 +1,2 @@
 # basic-concepts
-内涵自学中解锁的各种新工具
+内含自学中解锁的各种新技能，如linux,python,markdown等
